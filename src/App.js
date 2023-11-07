@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with fraol
+          Learn React with fraol again
         </a>
       </header>
     </div>
